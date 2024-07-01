@@ -19,7 +19,7 @@ Looking at the report, we can tell that thes products have low sales and may be 
 - Step 7 : A visualizations was assigned to each of the query from the insert view pane
 - Step 8 : Proceeded in creating a sales report dashboard, a bar charts was was added to the canvas deplicating REVENUE BY COUNTRY, TOP 5 PRODUCTS, TOP 5 SALESPERSONS	BOTTOM 5 SALESPERSONS.
 - Step 9 : A scattered plot was used to establish a relationship between total revenue and units sold.
-- Step 9 : A slicer was added covering the geoghaphy four card visuals were added to the canvas, representing TOTAL REVENUE, TOTAL COST, TOTAL UNIT, TOTAL PROFIT.
+- Step 10 : A slicer was added covering the geoghaphy four card visuals were added to the canvas, representing TOTAL REVENUE, TOTAL COST, TOTAL UNIT, TOTAL PROFIT.
 
 ### [1] SALES STATISTICS 
 
